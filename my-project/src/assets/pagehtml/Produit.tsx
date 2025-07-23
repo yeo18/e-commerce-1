@@ -1,6 +1,6 @@
 import { FaStar } from "react-icons/fa6";
  import Image3 from "../Image/Image3.png"
- import Img2 from "../Image/img2.jpg"
+ import img2 from "../Image/img2.jpg"
  import Img3 from "../Image/img3.jpg"
  import Img4 from "../Image/img4.jpg"
 import AOS from "aos";
